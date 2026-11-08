@@ -2,6 +2,11 @@
 
 *After Four Weddings and a Funeral*
 
-[Download the Word document](4%2B1.docx)
+The original prose and quotation version are available in two layouts.
 
-The document contains the original version, the quotation version, and the references.
+| Edition | Word | PDF |
+| --- | --- | --- |
+| Side by side, aligned paragraph by paragraph | [Download](4%2B1_parallel.docx) | [Download](4%2B1_parallel.pdf) |
+| Sequential, original followed by quotation version | [Download](4%2B1.docx) | [Download](4%2B1.pdf) |
+
+Both editions include the full references.
